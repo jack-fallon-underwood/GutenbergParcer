@@ -1,0 +1,11 @@
+# Ignore SQL database files
+*.sql
+*.sqlite
+*.db
+*.db3
+*.sqlite3
+
+# Ignore database directories
+database/
+db/
+data/
